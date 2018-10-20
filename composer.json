@@ -1,0 +1,40 @@
+{
+    "name": "techouse/slovenian-date-time",
+    "description": "Slovenian datepicker for Laravel Nova.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "datepicker",
+        "date",
+        "picker",
+        "slovenian",
+        "localisation"
+    ],
+    "authors": [
+        {
+           "name": "Klemen Tušar",
+           "email": "techouse@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Techouse\\SlovenianDateTime\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Techouse\\SlovenianDateTime\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
