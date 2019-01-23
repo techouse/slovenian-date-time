@@ -1,5 +1,8 @@
 # Slovenian DateTime
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/techouse/slovenian-date-time.svg?style=flat-square)](https://packagist.org/packages/techouse/slovenian-date-time)
+[![Total Downloads](https://img.shields.io/packagist/dt/techouse/slovenian-date-time.svg?style=flat-square)](https://packagist.org/packages/techouse/slovenian-date-time)
+
 ##### Slovenian datepicker for Laravel Nova
 
 Apply Slovenian localisation to Laravel Nova's default `DateTime` field that currently doesn't support localisation out of the box.
