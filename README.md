@@ -140,3 +140,6 @@ class User extends Resource
 }
 
 ```
+
+#### NOTE
+If you need a different language than Slovenian you can check out my [International DateTime](https://github.com/techouse/intl-date-time) for Laravel Nova.
